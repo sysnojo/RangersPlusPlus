@@ -1,1 +1,1 @@
-![Preview Of Ranger++](/preview.png)
+![Preview Of Ranger++](/preview-terminal.png)
