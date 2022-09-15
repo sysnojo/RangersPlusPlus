@@ -5,14 +5,7 @@
      width="100" height="50"
 >
   <text font-size="16" x="10" y="20">
-    <tspan fill="red">                                                         __        __      </tspan>,
-    <tspan fill="red">                                                        /\ \      /\ \     </tspan>,
-    <tspan fill="red"> _ __    __      ___      __      __   _ __   ____      \_\ \___  \_\ \___ </tspan>,
-    <tspan fill="red">/\`'__\/'__`\  /' _ `\  /'_ `\  /'__`\/\`'__\/',__\    /\___  __\/\___  __\</tspan>,
-    <tspan fill="red">\ \ \//\ \L\.\_/\ \/\ \/\ \L\ \/\  __/\ \ \//\__, `\   \/__/\ \_/\/__/\ \_/</tspan>,
-    <tspan fill="red"> \ \_\\ \__/.\_\ \_\ \_\ \____ \ \____\\ \_\\/\____/       \ \_\     \ \_\ </tspan>,
-    <tspan fill="red">  \/_/ \/__/\/_/\/_/\/_/\/___L\ \/____/ \/_/ \/___/         \/_/      \/_/ </tspan>,
-    <tspan fill="red">                          /\____/                                          </tspan>,
-    <tspan fill="red">                          \_/__/                                           </tspan>!
+    <tspan fill="red">hello world<br>wyd?</tspan>,
+    <tspan fill="red">working aout</tspan>!
   </text>
 </svg>
