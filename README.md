@@ -1,1 +1,1 @@
-![Preview Of Ranger++](/preview-terminal.png)
+<a><img src="/colored-text.svg"/></a>
