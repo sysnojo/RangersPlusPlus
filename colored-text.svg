@@ -5,12 +5,18 @@
      width="1400" height="500"
 >
   <text font-size="40">
+       <!-- Line 1 -->
        <tspan fill="black" x="100" y="80">   _________ </tspan>
-       <tspan fill="red" x="340" y="80">_____  </tspan>
-       <tspan fill="blue" x="500" y="80">____ </tspan>
-       <tspan fill="red" x="625" y="80">____  __________     __    __ </tspan>
+       <tspan fill="black" x="340" y="80">_____  </tspan>
+       <tspan fill="black" x="500" y="80">____ </tspan>
+       <tspan fill="black" x="625" y="80">____  </tspan>
+       <tspan fill="black" x="760" y="80">__________     </tspan>
+       <tspan fill="black" x="1095" y="80">__    </tspan>
+       <tspan fill="black" x="1240" y="80">__ </tspan>
+       
+       <!-- Line 2 -->
        <tspan fill="black" x="80" y="120">  / ___/ __ </tspan>
-       <tspan fill="red" x="310" y="120">`/ __ \/ __ </tspan>
-       <tspan fill="blue" x="595" y="120">`/ _ \/ ___/ ___/  __/ /___/ /_</tspan>
+       <tspan fill="black" x="310" y="120">`/ __ \/ __ </tspan>
+       <tspan fill="black" x="596" y="120">`/ _ \/ ___/ ___/  __/ /___/ /_</tspan>
   </text>
 </svg>
