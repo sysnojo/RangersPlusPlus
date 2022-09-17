@@ -13,7 +13,9 @@
 
 <h3>What is rangers++?</h3>
 rangers++ is a simple basic program made in C to show anyone the byte and range of
-a data type.<br>This program is for educational purposes, anyone can learn anytime!<br> It contains the following data types: <br><br>
+a data type mostly used.<br>This program is for an educational purposes, anyone can learn anytime!<br> It contains the following data types: <br><br>
+
+*// A function to call maximum/minimum of a signed & unsigned char*
 <pre>
-MAX_MIN_SCHAR_UCHAR(...); // A function to call maximum/minimum of a signed & unsigned char
+MAX_MIN_SCHAR_UCHAR(...); 
 </pre>
