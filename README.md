@@ -9,3 +9,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sysnojo?tab=followers)
 
 </div>
+
+
+<h3>What is rangers++?</h3>
+rangers++ is a simple basic program made in C to show anyone the byte and range of
+a data type.<br>This program is for educational purposes, anyone can learn anytime!<br> It contains the following data types: <br><br>
+<pre>
+MAX_MIN_SCHAR_UCHAR(...); // A function to call maximum/minimum of a signed & unsigned char
+</pre>
