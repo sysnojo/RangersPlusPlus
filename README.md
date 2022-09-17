@@ -1,2 +1,1 @@
-<a><img src="/colored-text.svg"/></a>
-
+![img](https://postimg.cc/rKTqSgFM)
