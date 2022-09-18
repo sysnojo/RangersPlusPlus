@@ -11,8 +11,9 @@
 </div>
 
 
-<h3>What is rangers++?</h3>
-rangers++ is a simple basic program made in C to show anyone the byte and range of
+## What is rangers++?
+
+*rangers++* is a simple basic program made in C to show anyone the byte and range of
 a data type.<br>This program is for an educational purposes, anyone can learn anytime!<br> It contains the following data types: <br><br>
 
 - *Signed & unsigned char*
@@ -28,38 +29,55 @@ MAX_MIN_SCHAR_UCHAR(10,11,12);
 
 // the color function
 int color_t(int range); // range from 1 - 25
+
+/* Note: the minimum size of unsigned char starts from 0 (always positive) */
 ```
 
-*// A function to call maximum/minimum of a signed & unsigned short*
+- *Signed & unsigned short*
+```c
+// calling maximum/minimum of signed/unsigned short function
+MAX_MIN_SHRT_USHRT(...); // parameter as colors
+
+/* Note: the minimum size of unsigned short starts from 0 (always positive) */
 ```
-MAX_MIN_SHRT_USHRT(...); 
+
+- *Signed & unsigned int*
+```c
+// calling maximum/minimum of signed/unsigned int function
+MAX_MIN_INT_UINT(...); // parameter as colors
+
+/* Note: the minimum size of unsigned int starts from 0 (always positive) */
 ```
 
-*// A function to call maximum/minimum of a signed & unsigned int*
-<pre>
-MAX_MIN_INT_UINT(...); 
-</pre>
+- *Data type of float*
+```c
+// calling maximum/minimum of float function
+MAX_MIN_FLT(...); // parameter as colors
 
-*// A function to call maximum/minimum a data type of float*
-<pre>
-MAX_MIN_FLT(...); 
-</pre>
+```
 
-*// A function to call maximum/minimum a data type of double*
-<pre>
-MAX_MIN_DBL_LDBL(...); 
-</pre>
+- *Data type of double*
+```c
+// calling maximum/minimum of double function
+MAX_MIN_DBL_LDBL(...); // parameter as colors 
+```
 
-*// A function to call maximum/minimum of a signed & unsigned long long int*
-<pre>
- MAX_MIN_LONG_LONG_ULONG(...); 
-</pre>
+- *Signed & unsigned long long int*
+```c
+// calling maximum/minimum of signed/unsigned long long int function
+ MAX_MIN_LONG_LONG_ULONG(...); // parameter as colors
+ 
+ // typedef's ...
+ typedef long long int lli; // longlongint ...
+ typedef unsigned long long int ulli; // is this even real? ...
+```
 <br>
-<h3>Terminal Preview</h3>
+
+## Terminal Preview
 
 ![termPrev](/preview-terminal.png)
 
-<h3>Resources</h3>
+## Resources
 
 - [Byjus](https://byjus.com/gate/data-types-in-c/)
 - [Geeks for geeks](https://www.geeksforgeeks.org/data-types-in-c/)
