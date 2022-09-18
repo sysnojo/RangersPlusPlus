@@ -15,15 +15,25 @@
 rangers++ is a simple basic program made in C to show anyone the byte and range of
 a data type.<br>This program is for an educational purposes, anyone can learn anytime!<br> It contains the following data types: <br><br>
 
-*// A function to call maximum/minimum of a signed & unsigned char*
-<pre>
-MAX_MIN_SCHAR_UCHAR(...); 
-</pre>
+- *Signed & unsigned char*
+```c
+// calling maximum/minimum of signed/unsigned char function
+int MAX_MIN_SCHAR_UCHAR(int a_range, int b_range, int c_range); // parameter as colors
+
+// for example:
+MAX_MIN_SCHAR_UCHAR(10,11,12);
+// a_range = 10 (bright green)
+// b_range = 11 (bright cyan)
+// c_range = 12 (bright red)
+
+// the color function
+int color_t(int range); // range from 1 - 25
+```
 
 *// A function to call maximum/minimum of a signed & unsigned short*
-<pre>
+```
 MAX_MIN_SHRT_USHRT(...); 
-</pre>
+```
 
 *// A function to call maximum/minimum of a signed & unsigned int*
 <pre>
